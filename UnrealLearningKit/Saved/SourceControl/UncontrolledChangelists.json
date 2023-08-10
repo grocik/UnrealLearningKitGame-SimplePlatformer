@@ -1,0 +1,19 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/1groc/Documents/Unreal Projects/UnrealLearningKit/Content/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/1groc/Documents/Unreal Projects/UnrealLearningKit/Content/SCK_Casual01/Blueprints/ThirdPersonCharacter.uasset",
+				"C:/Users/1groc/Documents/Unreal Projects/UnrealLearningKit/Content/LearningKit_Games/Maps/LearningKit_Games_Showcase.umap",
+				"C:/Users/1groc/Documents/Unreal Projects/UnrealLearningKit/Content/BP_MovingPlatform.uasset",
+				"C:/Users/1groc/Documents/Unreal Projects/UnrealLearningKit/Content/BP_PushingPlatform.uasset",
+				"C:/Users/1groc/Documents/Unreal Projects/UnrealLearningKit/Content/BP_ObstacleAssaultGameMode.uasset",
+				"C:/Users/1groc/Documents/Unreal Projects/UnrealLearningKit/Content/LearningKit_Games/Maps/BP_NewLevel.umap",
+				"C:/Users/1groc/Documents/Unreal Projects/UnrealLearningKit/Content/BP_RotatingPlatform.uasset"
+			]
+		}
+	]
+}
