@@ -5,5 +5,9 @@ Game Project from Udemy Course https://www.udemy.com/share/101XRs3@dHQ14kL6N8dMM
 #Gameplay video
 
 
-https://github.com/grocik/UnrealLearningKitGame-SimplePlatformer/assets/77440858/e82a0f23-85bc-4ce1-9261-7fcaebfa7e2c
+
+
+
+
+https://github.com/grocik/UnrealLearningKitGame-SimplePlatformer/assets/77440858/f335e1cd-4cc2-42bd-bf6d-f42a96c310d3
 
